@@ -1,5 +1,8 @@
 # Hi 👋, I'm Levent
 * Student at Gazi University,Ankara
+* I like mobile development
+* Currently i learn Flutter.
+* I'm interested Kotlin.
 
 ## 🛠 Tech Stack
 ![Dart](https://camo.githubusercontent.com/df6cf95ebff290dbd402b4a40d92b74fb3d025ddae01675d64d3ed133b0b8dd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3035313232413f7374796c653d666c6174266c6f676f3d64617274266c6f676f436f6c6f723d323942364636)
@@ -13,3 +16,5 @@
 ## Social Media
 <a href="https://twitter.com/LeventSrr" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://t.me/LeventSrr" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<br><br>
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=leventsrr&show_icons=true)
