@@ -44,4 +44,13 @@
 <a href="https://twitter.com/LeventSrr" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://t.me/LeventSrr" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <br><br>
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=leventsrr&show_icons=true)
+<!--![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=leventsrr&show_icons=true)-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leventsrr&show_icons=true&bg_color=40,904e99,e96205&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="leventsrr" /></p>
+
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=leventsrr&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="leventsrr" width="50%" /></p>
+
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsrr" alt="leventsrr" /> </p>
+ </div>
