@@ -51,6 +51,4 @@
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leventsrr&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="leventsrr" width="50%" /></p>
 <br/>
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leventsrr" alt="leventsrr" /> </p>
- </div>
+
